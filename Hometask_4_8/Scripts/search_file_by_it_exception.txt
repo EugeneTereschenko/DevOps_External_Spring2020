@@ -1,8 +1,14 @@
+change_user_name_by_awk.sh
 change_user_name_by_awk.txt
+change_user_name_by_sed.sh
 change_user_name_by_sed.txt
+home_directory_date_and_name_file.sh
 home_directory_date_and_name_file.txt
 home_directory.txt
+home_directory_without_string_total.sh
 home_directory_without_string_total.txt
+listing_home_directory.sh
+name_of_file_with_digit.sh
 name_of_file_with_digit.txt
 script1.sh
 script2_2.sh
@@ -12,4 +18,5 @@ script4.sh
 script5.sh
 script6.sh
 script.sh
+search_file_by_it_exception.sh
 search_file_by_it_exception.txt
