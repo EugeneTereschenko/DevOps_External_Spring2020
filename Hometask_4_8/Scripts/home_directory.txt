@@ -1,0 +1,111 @@
+/root:
+total 32
+drwx------  6 root root 4096 кві  9 17:19 .
+drwxr-xr-x 20 root root 4096 кві 23 22:29 ..
+-rw-r--r--  1 root root 3106 сер 27  2019 .bashrc
+drwx------  3 root root 4096 кві  9 17:19 .cache
+drwx------  4 root root 4096 кві 21 20:20 .config
+drwxr-xr-x  3 root root 4096 кві  3 23:03 .local
+-rw-r--r--  1 root root  148 сер 27  2019 .profile
+drwxr-xr-x  3 root root 4096 кві  3 22:02 snap
+
+/root/.cache:
+total 12
+drwx------ 3 root root 4096 кві  9 17:19 .
+drwx------ 6 root root 4096 кві  9 17:19 ..
+drwx------ 2 root root 4096 кві  9 17:19 mc
+
+/root/.cache/mc:
+total 8
+drwx------ 2 root root 4096 кві  9 17:19 .
+drwx------ 3 root root 4096 кві  9 17:19 ..
+
+/root/.config:
+total 20
+drwx------ 4 root root 4096 кві 21 20:20 .
+drwx------ 6 root root 4096 кві  9 17:19 ..
+drwx------ 2 root root 4096 кві  9 17:19 mc
+-rw-r--r-- 1 root root 2984 кві 21 21:18 Trolltech.conf
+drwx------ 2 root root 4096 кві 23 21:26 VirtualBox
+
+/root/.config/mc:
+total 8
+drwx------ 2 root root 4096 кві  9 17:19 .
+drwx------ 4 root root 4096 кві 21 20:20 ..
+
+/root/.config/VirtualBox:
+total 128
+drwx------ 2 root root  4096 кві 23 21:26 .
+drwx------ 4 root root  4096 кві 21 20:20 ..
+-rw------- 1 root root  1184 кві 12 15:57 compreg.dat
+-rw------- 1 root root  2448 кві 25 11:00 VBoxSVC.log
+-rw------- 1 root root  2579 кві 23 21:26 VBoxSVC.log.1
+-rw------- 1 root root  2367 кві 15 22:55 VBoxSVC.log.10
+-rw------- 1 root root  2689 кві 22 23:30 VBoxSVC.log.2
+-rw------- 1 root root  2437 кві 21 23:32 VBoxSVC.log.3
+-rw------- 1 root root  2579 кві 21 23:06 VBoxSVC.log.4
+-rw------- 1 root root  2508 кві 20 23:17 VBoxSVC.log.5
+-rw------- 1 root root  2338 кві 20 10:34 VBoxSVC.log.6
+-rw------- 1 root root   460 кві 19 22:27 VBoxSVC.log.7
+-rw------- 1 root root  2587 кві 19 21:22 VBoxSVC.log.8
+-rw------- 1 root root   603 кві 16 14:57 VBoxSVC.log.9
+-rw------- 1 root root  1030 кві 23 21:26 vboxwebsrv.log
+-rw------- 1 root root  1267 кві 23 21:25 vboxwebsrv.log.1
+-rw------- 1 root root  1172 кві 16 14:56 vboxwebsrv.log.10
+-rw------- 1 root root  1267 кві 22 23:29 vboxwebsrv.log.2
+-rw------- 1 root root  1268 кві 21 23:32 vboxwebsrv.log.3
+-rw------- 1 root root  1267 кві 21 23:06 vboxwebsrv.log.4
+-rw------- 1 root root  1267 кві 20 23:17 vboxwebsrv.log.5
+-rw------- 1 root root  1030 кві 20 10:32 vboxwebsrv.log.6
+-rw------- 1 root root   264 кві 19 22:27 vboxwebsrv.log.7
+-rw------- 1 root root  1172 кві 19 22:27 vboxwebsrv.log.8
+-rw------- 1 root root   264 кві 16 14:56 vboxwebsrv.log.9
+-rw------- 1 root root 28272 кві 12 15:57 xpti.dat
+
+/root/.local:
+total 12
+drwxr-xr-x 3 root root 4096 кві  3 23:03 .
+drwx------ 6 root root 4096 кві  9 17:19 ..
+drwx------ 4 root root 4096 кві  9 17:19 share
+
+/root/.local/share:
+total 16
+drwx------ 4 root root 4096 кві  9 17:19 .
+drwxr-xr-x 3 root root 4096 кві  3 23:03 ..
+drwx------ 2 root root 4096 кві  9 17:19 mc
+drwx------ 2 root root 4096 кві  3 23:03 nano
+
+/root/.local/share/mc:
+total 12
+drwx------ 2 root root 4096 кві  9 17:19 .
+drwx------ 4 root root 4096 кві  9 17:19 ..
+-rw------- 1 root root   66 кві  9 17:19 history
+
+/root/.local/share/nano:
+total 8
+drwx------ 2 root root 4096 кві  3 23:03 .
+drwx------ 4 root root 4096 кві  9 17:19 ..
+
+/root/snap:
+total 12
+drwxr-xr-x 3 root root 4096 кві  3 22:02 .
+drwx------ 6 root root 4096 кві  9 17:19 ..
+drwxr-xr-x 4 root root 4096 кві  3 22:02 microk8s
+
+/root/snap/microk8s:
+total 16
+drwxr-xr-x 4 root root 4096 кві  3 22:02 .
+drwxr-xr-x 3 root root 4096 кві  3 22:02 ..
+drwxr-xr-x 2 root root 4096 кві  3 22:02 1319
+drwxr-xr-x 2 root root 4096 кві  3 22:02 common
+lrwxrwxrwx 1 root root    4 кві  3 22:02 current -> 1319
+
+/root/snap/microk8s/1319:
+total 8
+drwxr-xr-x 2 root root 4096 кві  3 22:02 .
+drwxr-xr-x 4 root root 4096 кві  3 22:02 ..
+
+/root/snap/microk8s/common:
+total 8
+drwxr-xr-x 2 root root 4096 кві  3 22:02 .
+drwxr-xr-x 4 root root 4096 кві  3 22:02 ..

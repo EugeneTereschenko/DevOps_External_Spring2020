@@ -1,0 +1,5 @@
+microk8s
+/root/snap/microk8s:
+1319
+/root/snap/microk8s/1319:
+/root/snap/microk8s/common:
