@@ -1,0 +1,10 @@
+total 100
+drwxr-xr-x 2 yevhen yevhen  4096 тра  5 00:03 .
+drwxr-xr-x 3 yevhen yevhen  4096 тра  4 20:17 ..
+-rwxr-xr-x 1 yevhen yevhen   187 тра  4 21:04 Count_files.sh
+-rwxr-xr-x 1 yevhen yevhen   143 тра  4 21:37 Count_of_process_startup_current_user_and_user_root.sh
+-rw-r--r-- 1 yevhen yevhen     0 тра  5 00:05 info_dir.txt
+-rwxr-xr-x 1 yevhen yevhen 71668 тра  4 22:20 info.txt
+-rwxr-xr-x 1 yevhen yevhen    70 тра  4 23:44 Script_show_output_for_directory.sh
+-rwxr-xr-x 1 yevhen yevhen    76 тра  4 22:53 Script_show_output_grep.sh
+-rwxr-xr-x 1 yevhen yevhen    64 тра  4 21:15 Show_date_time_list_of_users_uptime.sh
