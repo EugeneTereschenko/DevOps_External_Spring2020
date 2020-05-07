@@ -1,0 +1,364 @@
+2020-05-07_13-01-40
+CPU context switches
+74115541
+2020-05-07_13-01-43
+CPU load
+0%
+2020-05-07_13-01-43
+Pages of memory
+AnonPages:       3511352 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+2020-05-07_13-02-32
+CPU context switches
+74470615
+2020-05-07_13-02-34
+CPU load %
+0
+2020-05-07_13-02-34
+Pages of memory
+AnonPages:       3513424 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+2020-05-07_13-03-30
+CPU context switches
+74866107
+2020-05-07_13-03-32
+CPU load %
+92
+2020-05-07_13-03-32
+Pages of memory
+AnonPages:       3480664 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+2020-05-07_21-02-42
+CPU context switches
+336506513
+2020-05-07_21-02-45
+CPU load %
+93
+2020-05-07_21-02-45
+Pages of memory
+AnonPages:       3248700 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+2020-05-07_21-02-45
+disks
+           20 disks 
+            1 partitions 
+       237970 total reads
+        17066 merged reads
+      5146930 read sectors
+       147374 milli reading
+      1157472 writes
+       319779 merged writes
+     20918528 written sectors
+       455916 milli writing
+            0 inprogress IO
+          329 milli spent IO
+2020-05-07_21-20-12
+CPU context switches
+4980064062
+2020-05-07_21-20-30
+CPU load %
+670
+2020-05-07_21-20-30
+Pages of memory
+AnonPages:       3141208 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+2020-05-07_21-20-30
+disks
+           20 disks 
+            1 partitions 
+       239084 total reads
+        17080 merged reads
+      5273742 read sectors
+       147970 milli reading
+      1180683 writes
+       325745 merged writes
+     21364944 written sectors
+       466004 milli writing
+            0 inprogress IO
+          337 milli spent IO
+2020-05-07_21-55-28
+CPU context switches
+5176317485
+2020-05-07_21-55-45
+CPU load %
+668
+2020-05-07_21-55-45
+Pages of memory
+AnonPages:       3164296 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+2020-05-07_21-55-45
+disks
+           20 disks 
+            1 partitions 
+       362806 total reads
+        46724 merged reads
+      6889742 read sectors
+       168302 milli reading
+      1279224 writes
+       403415 merged writes
+     23277704 written sectors
+       507057 milli writing
+            0 inprogress IO
+          388 milli spent IO
+2020-05-07_21-57-28
+CPU context switches
+5179672636
+2020-05-07_21-57-45
+CPU load %
+669
+2020-05-07_21-57-45
+Pages of memory
+AnonPages:       3056908 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+2020-05-07_21-57-45
+disks
+           20 disks 
+            1 partitions 
+       363145 total reads
+        46724 merged reads
+      6926238 read sectors
+       168445 milli reading
+      1279689 writes
+       403847 merged writes
+     23298568 written sectors
+       507803 milli writing
+            0 inprogress IO
+          388 milli spent IO
+2020-05-07_21-59-28
+CPU context switches
+5182471071
+2020-05-07_21-59-45
+CPU load %
+674
+2020-05-07_21-59-45
+Pages of memory
+AnonPages:       3029692 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+2020-05-07_21-59-45
+disks
+           20 disks 
+            1 partitions 
+       363153 total reads
+        46724 merged reads
+      6926398 read sectors
+       168451 milli reading
+      1279975 writes
+       404008 merged writes
+     23308216 written sectors
+       508171 milli writing
+            0 inprogress IO
+          388 milli spent IO
+2020-05-07_22-01-28
+CPU context switches
+5185484537
+2020-05-07_22-01-45
+CPU load %
+667
+2020-05-07_22-01-45
+Pages of memory
+AnonPages:       3054592 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+2020-05-07_22-01-45
+disks
+           20 disks 
+            1 partitions 
+       363187 total reads
+        46724 merged reads
+      6926942 read sectors
+       168466 milli reading
+      1280330 writes
+       404200 merged writes
+     23316680 written sectors
+       508521 milli writing
+            0 inprogress IO
+          389 milli spent IO
+2020-05-07_22-03-28
+CPU context switches
+5189394671
+2020-05-07_22-03-45
+CPU load %
+662
+2020-05-07_22-03-45
+Pages of memory
+AnonPages:       3088236 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+2020-05-07_22-03-45
+disks
+           20 disks 
+            1 partitions 
+       363187 total reads
+        46724 merged reads
+      6926942 read sectors
+       168466 milli reading
+      1280637 writes
+       404363 merged writes
+     23346768 written sectors
+       509166 milli writing
+            0 inprogress IO
+          389 milli spent IO
+2020-05-07_22-05-28
+CPU context switches
+5193231788
+2020-05-07_22-05-45
+CPU load %
+673
+2020-05-07_22-05-45
+Pages of memory
+AnonPages:       3049804 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+2020-05-07_22-05-45
+disks
+           20 disks 
+            1 partitions 
+       363187 total reads
+        46724 merged reads
+      6926942 read sectors
+       168466 milli reading
+      1280964 writes
+       404533 merged writes
+     23355056 written sectors
+       509475 milli writing
+            0 inprogress IO
+          389 milli spent IO
+2020-05-07_22-07-28
+CPU context switches
+5198775150
+2020-05-07_22-07-45
+CPU load %
+668
+2020-05-07_22-07-45
+Pages of memory
+AnonPages:       3269428 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+2020-05-07_22-07-45
+disks
+           20 disks 
+            1 partitions 
+       364160 total reads
+        46758 merged reads
+      7013198 read sectors
+       168957 milli reading
+      1281929 writes
+       405253 merged writes
+     23379024 written sectors
+       510060 milli writing
+            0 inprogress IO
+          391 milli spent IO
+2020-05-07_22-09-29
+CPU context switches
+5208245062
+2020-05-07_22-09-45
+CPU load %
+666
+2020-05-07_22-09-45
+Pages of memory
+AnonPages:       3190056 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+2020-05-07_22-09-45
+disks
+           20 disks 
+            1 partitions 
+       364314 total reads
+        46758 merged reads
+      7030854 read sectors
+       169021 milli reading
+      1283096 writes
+       405796 merged writes
+     23418352 written sectors
+       511023 milli writing
+            0 inprogress IO
+          392 milli spent IO
+2020-05-07_22-11-29
+CPU context switches
+5216340447
+2020-05-07_22-11-46
+CPU load %
+672
+2020-05-07_22-11-46
+Pages of memory
+AnonPages:       3282616 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+2020-05-07_22-11-46
+disks
+           20 disks 
+            1 partitions 
+       364359 total reads
+        46758 merged reads
+      7035654 read sectors
+       169049 milli reading
+      1283636 writes
+       406229 merged writes
+     23443400 written sectors
+       511554 milli writing
+            0 inprogress IO
+          392 milli spent IO

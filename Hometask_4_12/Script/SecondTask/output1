@@ -1,0 +1,6 @@
+g++ main.cpp hello.cpp factorial.cpp -o hello
+g++ main.cpp hello.cpp factorial.cpp -o hello
+g++ main.cpp hello.cpp factorial.cpp -o hello
+g++ main.cpp hello.cpp factorial.cpp -o hello
+g++ main.cpp hello.cpp factorial.cpp -o hello
+g++ main.cpp hello.cpp factorial.cpp -o hello
