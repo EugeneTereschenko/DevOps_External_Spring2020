@@ -13,7 +13,7 @@ done
 
 echo `date +%Y-%m-%d_%H-%M-%S` >> /home/yevhen/memory/main.log
 echo "CPU context switches" >> /home/yevhen/memory/main.log
-echo $((total/2)) >> /home/yevhen/memory/main.log
+echo $((total/10)) >> /home/yevhen/memory/main.log
 
 
 for (( count=1; count<15; count++ ))
@@ -25,7 +25,7 @@ done
 
 echo `date +%Y-%m-%d_%H-%M-%S` >> /home/yevhen/memory/main.log
 echo "CPU load %" >> /home/yevhen/memory/main.log
-echo $((totalCpu/2)) >> /home/yevhen/memory/main.log
+echo $((totalCpu/15)) >> /home/yevhen/memory/main.log
 
 echo `date +%Y-%m-%d_%H-%M-%S` >> /home/yevhen/memory/main.log
 echo "Pages of memory" >> /home/yevhen/memory/main.log
