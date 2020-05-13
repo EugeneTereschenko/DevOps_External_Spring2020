@@ -1,0 +1,36 @@
+#!/bin/bash
+
+echo `date +%Y-%m-%d_%H-%M-%S` >> /home/yevhen/memory/stat
+cat /proc/meminfo | grep Mem >> /home/yevhen/memory/stat
+
+for (( count=1; count<30; count++ ))
+do
+var=$(vmstat -s | grep "CPU context switches" | awk '{print $1}')
+#my_array[count]=$var
+let total+=$var
+sleep 30
+done
+
+echo `date +%Y-%m-%d_%H-%M-%S` >> /home/yevhen/memory/main.log
+echo "CPU context switches" >> /home/yevhen/memory/main.log
+echo $((total/2)) >> /home/yevhen/memory/main.log
+
+
+for (( count=1; count<15; count++ ))
+do
+varCpu=$(top -bn1 | grep "Cpu(s)" | sed "s/.*, *\([0-9.]*\)%* id.*/\1/" | awk '{print 100 - $1}')
+let totalCpu+=$varCpu
+sleep 15
+done
+
+echo `date +%Y-%m-%d_%H-%M-%S` >> /home/yevhen/memory/main.log
+echo "CPU load %" >> /home/yevhen/memory/main.log
+echo $((totalCpu/2)) >> /home/yevhen/memory/main.log
+
+echo `date +%Y-%m-%d_%H-%M-%S` >> /home/yevhen/memory/main.log
+echo "Pages of memory" >> /home/yevhen/memory/main.log
+cat /proc/meminfo | grep Pages >> /home/yevhen/memory/main.log
+
+echo `date +%Y-%m-%d_%H-%M-%S` >> /home/yevhen/memory/main.log
+echo "disks" >> /home/yevhen/memory/main.log
+vmstat -D >> /home/yevhen/memory/main.log
