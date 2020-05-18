@@ -1,0 +1,5 @@
+#!/bin/bash
+
+var1=$1
+
+ls -la $var1 grep -m $var2 | sort | nl
